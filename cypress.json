@@ -1,0 +1,7 @@
+{
+ //   "baseUrl": "C:\Users\mar\cypress-basico-v2\cypress-basico-v2\src\index.html", 
+    "integrationFolder": "cypress/integration",
+    "pluginsFile": false
+//    "viewportHeight": 880,
+//    "viewportWidth": 1280
+}
